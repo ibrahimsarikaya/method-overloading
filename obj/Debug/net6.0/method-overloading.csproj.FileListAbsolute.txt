@@ -1,0 +1,15 @@
+C:\Derslerim\method-overloading\bin\Debug\net6.0\method-overloading.exe
+C:\Derslerim\method-overloading\bin\Debug\net6.0\method-overloading.deps.json
+C:\Derslerim\method-overloading\bin\Debug\net6.0\method-overloading.runtimeconfig.json
+C:\Derslerim\method-overloading\bin\Debug\net6.0\method-overloading.dll
+C:\Derslerim\method-overloading\bin\Debug\net6.0\method-overloading.pdb
+C:\Derslerim\method-overloading\obj\Debug\net6.0\method-overloading.csproj.AssemblyReference.cache
+C:\Derslerim\method-overloading\obj\Debug\net6.0\method-overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Derslerim\method-overloading\obj\Debug\net6.0\method-overloading.AssemblyInfoInputs.cache
+C:\Derslerim\method-overloading\obj\Debug\net6.0\method-overloading.AssemblyInfo.cs
+C:\Derslerim\method-overloading\obj\Debug\net6.0\method-overloading.csproj.CoreCompileInputs.cache
+C:\Derslerim\method-overloading\obj\Debug\net6.0\method-overloading.dll
+C:\Derslerim\method-overloading\obj\Debug\net6.0\refint\method-overloading.dll
+C:\Derslerim\method-overloading\obj\Debug\net6.0\method-overloading.pdb
+C:\Derslerim\method-overloading\obj\Debug\net6.0\method-overloading.genruntimeconfig.cache
+C:\Derslerim\method-overloading\obj\Debug\net6.0\ref\method-overloading.dll
